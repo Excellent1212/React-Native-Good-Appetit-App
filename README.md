@@ -77,7 +77,7 @@ Also, you'll need to the server running locally on your machine with the mock da
 **Cloning the Repository**
 
 ```
-$ https://github.com/steniowagner/bon-appetit-app
+$ https://github.com/Excellent1212/React-Native-Good-Appetit-App
 
 $ cd bon-appetit-app
 ```
