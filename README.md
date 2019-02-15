@@ -168,4 +168,4 @@ Thank you!
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/steniowagner/bon-appetit-app/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Excellent1212/React-Native-Good-Appetit-App/blob/master/LICENSE) file for details
